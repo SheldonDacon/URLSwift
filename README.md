@@ -81,17 +81,17 @@ iii. Open "http://127.0.0.1:8000/docs" in any web browser
 
 - Once you reach the Landing page,pass the "Try it out Button, which to the right of the Parameters tab. Then fill the URL that you want to shorten.
 
-![This is an image](pic1.png)
+![This is an image](example_pictures/pic1.png)
 
 Press Execute, you will then get a response from the server giving you a url and an admin url.
 
-![This is an image](pic2.png)
+![This is an image](example_pictures/pic2.png)
 
 Typing in the "url" provided \(in this example http://127.0.0.1:8000/578RF \) into your browser will then redirect you to the original website that you provided.
 The admin url can be used for other features. The last part of the URL \(in this example 578RF_QS3TXAAQ\)  is a secert key that can be used to get more info about your url, such as the number of clicks, to check the link to see if its maciloius or even to delete the key from the database.
 
 Here is what checking the URL with the secret key looks like:
-![This is an image](pic3checklink.png)
+![This is an image](example_pictures/pic3checklink.png)
 
 
 Here is what obatining the admin info looks like:
@@ -99,16 +99,16 @@ Here is what obatining the admin info looks like:
 
 
 And here is what deleting your link looks like:
-![Example](pic5deletion.png)
+![Example](example_pictures/pic5deletion.png) 
 
 
 -Lastly,you can create you own custom shortened URL.
 
 To to the bottom green tab and input your custom url in the custom key input, and input your target URL.
-![This is an image](pic7.png)
+![This is an image](example_pictures/pic7.png)
 
 You will then get your confrimation and you are free to use your new custom url.
-![This is an image](pic6.png)
+![This is an image](example_pictures/pic6.png)
 
 
 
