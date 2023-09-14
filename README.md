@@ -39,7 +39,7 @@ DB_URL="sqlite:///./shortener.db"
 ```
 -.env file
 ```
-API_KEY = "(your google safeserch api key)"
+API_KEY = "(your google safesearch api key)"
 ```
 - (Optional) obtain an API key from Google Cloud, follow the steps as provied by Google: https://developers.google.com/safe-browsing/v4/get-started
 This is only nessary if you want to use the link safety feature of this program.
