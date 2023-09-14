@@ -95,7 +95,7 @@ Here is what checking the URL with the secret key looks like:
 
 
 Here is what obatining the admin info looks like:
-![This is an image](\exmaple_pictures\pic4admin.png)
+![This is an image](exmaple_pictures\pic4admin.png)
 
 
 And here is what deleting your link looks like:
