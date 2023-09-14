@@ -95,11 +95,11 @@ Here is what checking the URL with the secret key looks like:
 
 
 Here is what obatining the admin info looks like:
-![This is an image](example_pictures\pic4admin.png)
+![example](example_pictures/pic4admin.png)
 
 
 And here is what deleting your link looks like:
-![This is an image](pic5deletion.png)
+![Example](pic5deletion.png)
 
 
 -Lastly,you can create you own custom shortened URL.
